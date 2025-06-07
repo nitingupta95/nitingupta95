@@ -55,13 +55,7 @@
 
 ---
 
-## 🏅 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nitingupta95&theme=radical&margin-w=10&no-frame=true" />
-</p>
-
----
 
 ## 🏆 Competitive Programming
 

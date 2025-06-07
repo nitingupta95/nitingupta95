@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://res.cloudinary.com/ddwkxjfur/image/upload/v1749275877/ChatGPT_Image_Jun_7_2025_11_24_27_AM_fuxfmi.png" alt="Nitin Gupta Banner" style="width:100%; max-width:900px; border-radius:12px; backdrop-filter: blur(8px);" />
+  <img src="https://res.cloudinary.com/ddwkxjfur/image/upload/v1749276432/ChatGPT_Image_Jun_7_2025_11_35_28_AM_d8r5uq.png" alt="Nitin Gupta Banner" style="width:100%; max-width:900px; border-radius:12px; backdrop-filter: blur(8px);" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nitin Gupta</h1>

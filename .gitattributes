@@ -1,0 +1,6 @@
+# Ignore SQL and weird scripts in language stats
+*.sql linguist-language=Ignore
+*.pgsql linguist-language=Ignore
+*.wscript linguist-language=Ignore
+*.ws linguist-language=Ignore
+migrations/** linguist-language=Ignore

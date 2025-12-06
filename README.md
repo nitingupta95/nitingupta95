@@ -13,7 +13,6 @@
 ## 📊 **GitHub Analytics Dashboard**
 
 <p align="center">
-  <!-- Main GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=nitingupta95&show_icons=true&theme=chartreuse-dark&hide_border=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitingupta95&layout=compact&theme=chartreuse-dark&hide_border=true" height="170" />
 </p>
@@ -62,22 +61,24 @@ Real-time collaborative whiteboard
 Tech: WebSockets, Canvas API, Prisma, Postgres  
 100+ users • sub-100ms latency
 
+---
+
 ### 🧠 [Second Brain App](https://github.com/nitingupta95/backendofbrainly)
-Knowledge capture tool (YouTube, X, Docs)  
-JWT Auth • Optimized MongoDB queries  
+Knowledge capture tool for YouTube, X, Docs  
+JWT Auth • Optimized MongoDB filters  
 Saves users 5+ hours/week
 
 ---
 
 ## 🧠 About Me
 
-- B.Tech CSE @ IIIT Bhagalpur (Top 20%)
-- Student Mentor @ Adhyaay — taught 20+ students
-- Currently building real-time systems
-- Learning Prisma, TS, advanced DB optimization  
-- Ask me about: React, Node, Prisma, Mongo, Monorepo design  
-- Fun Fact: Built 32 themed apps + 3rd place in badminton 🏸  
-- Email: **ng61315@gmail.com**
+- 🎓 B.Tech CSE @ IIIT Bhagalpur (Top 20%)
+- 🧑‍🏫 Student Mentor @ Adhyaay — Mentored 20+ students
+- 🚀 Currently building real-time systems and developer tools
+- 📚 Learning Prisma, TypeScript, DB Performance Optimization  
+- 💬 Ask me about React, Node.js, Prisma, MongoDB, Monorepos  
+- 🏸 Fun Fact: Built 32+ themed apps + won 3rd place in badminton  
+- 📫 Email: **ng61315@gmail.com**
 
 ---
 

@@ -97,3 +97,8 @@ Saves users 5+ hours/week
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/nitingupta95/nitingupta95/blob/gh-pages/snake.svg" alt="GitHub Snake Animation" />
+</p>

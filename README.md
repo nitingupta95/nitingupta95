@@ -85,7 +85,8 @@ Saves users 5+ hours/week
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <!-- Works after snake.yml workflow is added -->
-  <img src="https://github.com/nitingupta95/nitingupta95/blob/gh-pages/snake.svg" alt="Snake animation" />
-</p>
+<picture>
+  <source srcset="https://raw.githubusercontent.com/nitingupta95/nitingupta95/gh-pages/snake-dark.svg" media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/nitingupta95/nitingupta95/gh-pages/snake.svg">
+</picture>
+

@@ -1,12 +1,5 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://res.cloudinary.com/ddwkxjfur/image/upload/v1749276881/ChatGPT_Image_Jun_7_2025_11_44_22_AM_j94we0.png"
-       alt="Nitin Gupta Banner"
-       style="width:100%; max-width:900px; border-radius:12px;" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Nitin Gupta</h1>
-<h3 align="center">Full Stack Developer • Real-Time App Enthusiast</h3>
+ 
+<h1 align="center">Hi 👋, I'm Nitin Gupta</h1> <h3 align="center">Full Stack Developer  <p align="center"> I work across the full stack — from designing resilient backends with Node.js, Express, and Prisma to building beautiful, responsive interfaces with React, Next.js, and modern UI frameworks. If it involves real-time events**, distributed systems, or problem-solving at scale, I'm all in. </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

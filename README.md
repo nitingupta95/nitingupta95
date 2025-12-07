@@ -10,24 +10,26 @@
 
 ---
 
-## 📊 **GitHub Analytics Dashboard**
+## 📊 GitHub Analytics Dashboard
 
 <p align="center">
+  <!-- Main Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=nitingupta95&show_icons=true&theme=chartreuse-dark&hide_border=true" height="170" />
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitingupta95&layout=compact&theme=chartreuse-dark&hide_border=true" height="170" />
 </p>
 
 ---
 
-## 🔥 **Contributions Heatmap**
+## 🔥 Contributions Heatmap
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00e676/nitingupta95" alt="GitHub Heatmap" />
+  <img src="https://raw.githubusercontent.com/201flaviosilva/github-heatmap/main/heatmap-dark.svg" width="95%" />
 </p>
 
 ---
 
-## 🧭 **Activity Breakdown (Graph)**
+## 🧭 Activity Breakdown (Graph)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitingupta95&theme=react-dark&hide_border=true" />
@@ -38,6 +40,7 @@
 ## 🚀 Featured Projects
 
 ### 🎨 [Draw-App](https://github.com/nitingupta95/draw-app)
+
 Real-time collaborative whiteboard  
 WebSockets • Canvas API • Prisma • PostgreSQL  
 100+ users • sub-100ms latency
@@ -45,8 +48,9 @@ WebSockets • Canvas API • Prisma • PostgreSQL
 ---
 
 ### 🧠 [Second Brain App](https://github.com/nitingupta95/backendofbrainly)
-Knowledge capture tool for YouTube, X, PDFs  
-JWT Auth • Optimized MongoDB filters  
+
+Knowledge capturing tool for YouTube, X, PDFs  
+JWT Auth • Optimized MongoDB search  
 Saves users 5+ hours/week
 
 ---
@@ -55,10 +59,10 @@ Saves users 5+ hours/week
 
 - 🎓 B.Tech CSE @ IIIT Bhagalpur (Top 20%)
 - 🧑‍🏫 Mentor @ Adhyaay — taught 20+ students
-- 🚀 Building real-time systems & developer tools
-- 📚 Learning Prisma, TS, DB Optimization  
-- 💬 Ask me about React, Node.js, Prisma, Mongo, Monorepos  
-- 🏸 Fun Fact: Built 32+ apps + 3rd in badminton  
+- 🚀 Building real-time systems & productivity tools
+- 📚 Learning TypeScript, Prisma, DB Optimization
+- 💬 Ask me about React, Node.js, Prisma, MongoDB
+- 🏸 Fun Fact: Built 32+ apps & secured 3rd in badminton
 - 📫 Email: **ng61315@gmail.com**
 
 ---
@@ -82,5 +86,6 @@ Saves users 5+ hours/week
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/nitingupta95/nitingupta95/blob/gh-pages/snake.svg" alt="GitHub Snake Animation" />
+  <!-- Works after snake.yml workflow is added -->
+  <img src="https://github.com/nitingupta95/nitingupta95/blob/gh-pages/snake.svg" alt="Snake animation" />
 </p>

@@ -36,6 +36,20 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/201flaviosilva/github-heatmap/main/heatmap-dark.svg" width="95%" />
 </p>
+<h3 align="left">⭐ Stars</h3>
+
+<!-- GitHub Readme Stats & Top Langs - Use correct markdown and fix line breaks -->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nitingupta95&show_icons=true&theme=dark" alt="Nitin GUpta" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitingupta95&layout=compact&theme=dark" alt="Nitin Gupta" />
+</p>
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nitingupta95&theme=dark" alt="Nitin GUpta" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
 
 ---
 

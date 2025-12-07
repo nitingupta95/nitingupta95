@@ -20,19 +20,20 @@
  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shreyanshi210205&theme=tokyonight&row=1&column=8" />
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## 🔥 Contributions Heatmap
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/201flaviosilva/github-heatmap/main/heatmap-dark.svg" width="95%" />
-</p>
- 
-
-<!-- GitHub Readme Stats & Top Langs - Use correct markdown and fix line breaks -->
-<p align="center">
+<!-- <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nitingupta95&show_icons=true&theme=dark" alt="Nitin GUpta" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitingupta95&layout=compact&theme=dark" alt="Nitin Gupta" />
-</p>
+</p> -->
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nitingupta95&theme=dark" alt="Nitin GUpta" />
 </p>
@@ -53,16 +54,22 @@
 ### 🎨 [Draw-App](https://github.com/nitingupta95/draw-app)
 
 Real-time collaborative whiteboard  
-WebSockets • Canvas API • Prisma • PostgreSQL  
-100+ users • sub-100ms latency
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+WebSockets • Canvas Element • Prisma • PostgreSQL    
 
 ### 🧠 [Second Brain App](https://github.com/nitingupta95/backendofbrainly)
 
 Knowledge capturing tool for YouTube, X, PDFs  
-JWT Auth • Optimized MongoDB search  
-Saves users 5+ hours/week
+JWT Auth • Optimized MongoDB search   
+.
+
+###  [IIIT Bhagalpur Alumni Portal](https://alumni.iiitbh.ac.in/teams)
+
+A modern, full-stack platform built for IIIT Bhagalpur to connect students, alumni, faculty, and administration in one unified ecosystem.
+
+🗂️ Alumni Profiles & Networking 
+📢 Real-time Announcements & Notifications
+📊 Admin Dashboard with Analytics
+🏆 Comprehensive Role & Permission Management 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

@@ -8,7 +8,7 @@
 <h1 align="center">Hi 👋, I'm Nitin Gupta</h1>
 <h3 align="center">Full Stack Developer • Real-Time App Enthusiast</h3>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Analytics Dashboard
 
@@ -24,19 +24,16 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</p>
+ 
 
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🔥 Contributions Heatmap
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/201flaviosilva/github-heatmap/main/heatmap-dark.svg" width="95%" />
 </p>
-<h3 align="left">⭐ Stars</h3>
+ 
 
 <!-- GitHub Readme Stats & Top Langs - Use correct markdown and fix line breaks -->
 <p align="center">
@@ -49,9 +46,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-
----
 
 ## 🧭 Activity Breakdown (Graph)
 
@@ -59,7 +53,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitingupta95&theme=react-dark&hide_border=true" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Featured Projects
 
@@ -69,7 +63,7 @@ Real-time collaborative whiteboard
 WebSockets • Canvas API • Prisma • PostgreSQL  
 100+ users • sub-100ms latency
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🧠 [Second Brain App](https://github.com/nitingupta95/backendofbrainly)
 
@@ -77,7 +71,7 @@ Knowledge capturing tool for YouTube, X, PDFs
 JWT Auth • Optimized MongoDB search  
 Saves users 5+ hours/week
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🧠 About Me
 
@@ -89,7 +83,7 @@ Saves users 5+ hours/week
 - 🏸 Fun Fact: Built 32+ apps & secured 3rd in badminton
 - 📫 Email: **ng61315@gmail.com**
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠 Tech Stack
 
@@ -97,7 +91,7 @@ Saves users 5+ hours/week
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,prisma,tailwind,html,css,vite,vercel,git" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
 
 ## 🐍 Contribution Snake
@@ -124,6 +118,6 @@ Saves users 5+ hours/week
        alt="GitHub Snake Animation"
   />
 </p>
- 
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 

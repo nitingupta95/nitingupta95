@@ -117,5 +117,6 @@ Saves users 5+ hours/week
        alt="GitHub Snake Animation"
   />
 </p>
+![snake gif](https://github.com/nitingupta95/nitingupta95/blob/output/github-snake-dark.svg)
 
 

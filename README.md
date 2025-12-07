@@ -84,14 +84,7 @@ Saves users 5+ hours/week
 </p>
 
 ---
-
-## 🧩 Visitor Counter
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/nitingupta95/count.svg" />
-</p>
-
----
+ 
 
 ## 🐍 Contribution Snake
 

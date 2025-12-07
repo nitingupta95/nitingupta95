@@ -19,7 +19,7 @@
 
 ---
 
-### 🔥 **Contributions Heatmap**
+## 🔥 **Contributions Heatmap**
 
 <p align="center">
   <img src="https://ghchart.rshah.org/00e676/nitingupta95" alt="GitHub Heatmap" />
@@ -27,29 +27,10 @@
 
 ---
 
-### 🧭 **Activity Breakdown (Radar Chart)**
+## 🧭 **Activity Breakdown (Graph)**
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitingupta95&radius=16&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-### 🛠 **Commit Timeline (UTC +00:00)**
-
-> _Auto-generated based on your GitHub commit distribution_
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nitingupta95/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-</p>
-
----
-
-### 🏆 **Extended GitHub Statistics**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nitingupta95/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/nitingupta95/github-stats/master/generated/commits.svg#gh-dark-mode-only" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitingupta95&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -58,13 +39,13 @@
 
 ### 🎨 [Draw-App](https://github.com/nitingupta95/draw-app)
 Real-time collaborative whiteboard  
-Tech: WebSockets, Canvas API, Prisma, Postgres  
+WebSockets • Canvas API • Prisma • PostgreSQL  
 100+ users • sub-100ms latency
 
 ---
 
 ### 🧠 [Second Brain App](https://github.com/nitingupta95/backendofbrainly)
-Knowledge capture tool for YouTube, X, Docs  
+Knowledge capture tool for YouTube, X, PDFs  
 JWT Auth • Optimized MongoDB filters  
 Saves users 5+ hours/week
 
@@ -73,11 +54,11 @@ Saves users 5+ hours/week
 ## 🧠 About Me
 
 - 🎓 B.Tech CSE @ IIIT Bhagalpur (Top 20%)
-- 🧑‍🏫 Student Mentor @ Adhyaay — Mentored 20+ students
-- 🚀 Currently building real-time systems and developer tools
-- 📚 Learning Prisma, TypeScript, DB Performance Optimization  
-- 💬 Ask me about React, Node.js, Prisma, MongoDB, Monorepos  
-- 🏸 Fun Fact: Built 32+ themed apps + won 3rd place in badminton  
+- 🧑‍🏫 Mentor @ Adhyaay — taught 20+ students
+- 🚀 Building real-time systems & developer tools
+- 📚 Learning Prisma, TS, DB Optimization  
+- 💬 Ask me about React, Node.js, Prisma, Mongo, Monorepos  
+- 🏸 Fun Fact: Built 32+ apps + 3rd in badminton  
 - 📫 Email: **ng61315@gmail.com**
 
 ---

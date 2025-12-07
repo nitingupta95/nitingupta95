@@ -95,7 +95,7 @@ Saves users 5+ hours/week
 
 ## 🐍 Contribution Snake
 
-<p align="left">
+<!-- <p align="left">
   <img 
        src="https://github-readme-stats.vercel.app/api/top-langs?username=nitingupta95&show_icons=true&locale=en&layout=compact"
        alt="nitingupta95 - Top Languages"
@@ -106,8 +106,8 @@ Saves users 5+ hours/week
        src="https://github-readme-stats.vercel.app/api?username=nitingupta95&show_icons=true&locale=en"
        alt="nitingupta95 - GitHub Stats"
        height="180" 
-  />
-</p>
+  /> -->
+<!-- </p> -->
 
 <h3 align="start">The snake’s been busy, and my contributions are its latest snack! 🐍🥡</h3>
 
@@ -117,6 +117,6 @@ Saves users 5+ hours/week
        alt="GitHub Snake Animation"
   />
 </p>
-![snake gif](https://github.com/nitingupta95/nitingupta95/blob/main/github-snake-dark.svg)
+ 
 
 

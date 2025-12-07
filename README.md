@@ -95,8 +95,27 @@ Saves users 5+ hours/week
 
 ## 🐍 Contribution Snake
 
-<picture>
-  <source srcset="https://raw.githubusercontent.com/nitingupta95/nitingupta95/gh-pages/snake-dark.svg" media="(prefers-color-scheme: dark)">
-  <img src="https://raw.githubusercontent.com/nitingupta95/nitingupta95/gh-pages/snake.svg">
-</picture>
+<p align="left">
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=nitingupta95&show_icons=true&locale=en&layout=compact"
+       alt="nitingupta95 - Top Languages"
+       height="180"
+       style="margin-right: 60px;" 
+  />
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=nitingupta95&show_icons=true&locale=en"
+       alt="nitingupta95 - GitHub Stats"
+       height="180" 
+  />
+</p>
+
+<h3 align="start">The snake’s been busy, and my contributions are its latest snack! 🐍🥡</h3>
+
+<p align="center">
+  <img 
+       src="https://raw.githubusercontent.com/nitingupta95/nitingupta95/output/github-snake-dark.svg"
+       alt="GitHub Snake Animation"
+  />
+</p>
+
 

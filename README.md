@@ -12,12 +12,22 @@
 
 ## 📊 GitHub Analytics Dashboard
 
+<h3 align="center">📊 Statistics</h3>
+
+<div align="center">
+  <a href="https://github.com/nitingupta95">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nitingupta95&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nitingupta95&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nitingupta95&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nitingupta95&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitingupta95&theme=2077" height="180em" />
+  </a>
+</div>
+
 <p align="center">
-  <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=nitingupta95&show_icons=true&theme=chartreuse-dark&hide_border=true" height="170" />
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitingupta95&layout=compact&theme=chartreuse-dark&hide_border=true" height="170" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </p>
+
 
 ---
 

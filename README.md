@@ -113,7 +113,7 @@ Saves users 5+ hours/week
 
 <p align="center">
   <img 
-       src="https://raw.githubusercontent.com/nitingupta95/nitingupta95/output/github-snake-dark.svg"
+       src="https://raw.githubusercontent.com/nitingupta95/nitingupta95/main/github-snake-dark.svg"
        alt="GitHub Snake Animation"
   />
 </p>

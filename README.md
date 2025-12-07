@@ -75,14 +75,18 @@ A modern, full-stack platform built for IIIT Bhagalpur to connect students, alum
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🧠 About Me
+Full-Stack Developer from India, passionate about **real-time apps**, **system design**, and building fast, scalable products using **Next.js, React, Node.js, Prisma, and WebSockets**.  
+Always exploring better architecture, cleaner code, and smarter developer workflows.  
+📫 Email: **ng61315@gmail.com**
 
-- 🎓 B.Tech CSE @ IIIT Bhagalpur (Top 20%)
-- 🧑‍🏫 Mentor @ Adhyaay — taught 20+ students
-- 🚀 Building real-time systems & productivity tools
-- 📚 Learning TypeScript, Prisma, DB Optimization
-- 💬 Ask me about React, Node.js, Prisma, MongoDB
-- 🏸 Fun Fact: Built 32+ apps & secured 3rd in badminton
-- 📫 Email: **ng61315@gmail.com**
+---
+
+## 🚀 Tech Stack
+**Languages:** JavaScript, TypeScript, C++, SQL  
+**Frontend:** Next.js, React.js, Tailwind CSS  
+**Backend:** Node.js, Express.js, Prisma ORM, Socket.io  
+**Databases:** MongoDB, PostgreSQL  
+**Tools:** GitHub, Vercel, Render, Cloudinary, Postman   
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

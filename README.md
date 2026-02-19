@@ -21,36 +21,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shreyanshi210205&theme=tokyonight&row=1&column=8" />
-</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-## 🔥 Contributions Heatmap
-
-<!-- <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nitingupta95&show_icons=true&theme=dark" alt="Nitin GUpta" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitingupta95&layout=compact&theme=dark" alt="Nitin Gupta" />
-</p> -->
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nitingupta95&theme=dark" alt="Nitin GUpta" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
-## 🧭 Activity Breakdown (Graph)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitingupta95&theme=react-dark&hide_border=true" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+ 
 ##  Portfolio Website
 https://nitingupta95portfolio.vercel.app/
 

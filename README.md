@@ -1,95 +1,88 @@
- 
-<h1 align="center">Hi 👋, I'm Nitin Gupta</h1> <h3 align="center">Full Stack Developer  <p align="center"> I work across the full stack — from designing resilient backends with Node.js, Express, and Prisma to building beautiful, responsive interfaces with React, Next.js, and modern UI frameworks. If it involves real-time events**, distributed systems, or problem-solving at scale, I'm all in. </p>
+<h1 align="center">Nitin Gupta</h1>
+<h3 align="center">Full-Stack Engineer | Backend & Scalable Systems</h3>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+Building scalable systems, real-time applications, and production-grade web platforms.
+</p>
 
-## 📊 GitHub Analytics Dashboard
-
-<h3 align="center">📊 Statistics</h3>
-
-<div align="center">
-  <a href="https://github.com/nitingupta95">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nitingupta95&theme=2077" height="180em" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nitingupta95&theme=2077" height="180em" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nitingupta95&theme=2077" height="180em" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nitingupta95&theme=2077" height="180em" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitingupta95&theme=2077" height="180em" />
-  </a>
-</div>
-
- 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
- 
-##  Portfolio Website
-https://nitingupta95portfolio.vercel.app/
-
-## 🚀 Featured Projects
-
-### 🎨 [Draw-App](https://github.com/nitingupta95/draw-app)
-
-Real-time collaborative whiteboard  
-WebSockets • Canvas Element • Prisma • PostgreSQL    
-
-### 🧠 [Second Brain App](https://github.com/nitingupta95/backendofbrainly)
-
-Knowledge capturing tool for YouTube, X, PDFs  
-JWT Auth • Optimized MongoDB search   
-.
-
-###  [IIIT Bhagalpur Alumni Portal](https://alumni.iiitbh.ac.in/teams)
-
-A modern, full-stack platform built for IIIT Bhagalpur to connect students, alumni, faculty, and administration in one unified ecosystem.
-
-🗂️ Alumni Profiles & Networking 
-📢 Real-time Announcements & Notifications
-📊 Admin Dashboard with Analytics
-🏆 Comprehensive Role & Permission Management 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🧠 About Me
-Full-Stack Developer from India, passionate about **real-time apps**, **system design**, and building fast, scalable products using **Next.js, React, Node.js, Prisma, and WebSockets**.  
-Always exploring better architecture, cleaner code, and smarter developer workflows.  
-📫 Email: **ng61315@gmail.com**
+<p align="center">
+<a href="mailto:ng61315@gmail.com">Email</a> •
+<a href="https://linkedin.com/in/nitingupta92">LinkedIn</a> •
+<a href="https://github.com/nitingupta95">GitHub</a> •
+<a href="https://nitingupta95portfolio.vercel.app/">Portfolio</a>
+</p>
 
 ---
 
-## 🚀 Tech Stack
-**Languages:** JavaScript, TypeScript, C++, SQL  
-**Frontend:** Next.js, React.js, Tailwind CSS  
-**Backend:** Node.js, Express.js, Prisma ORM, Socket.io  
-**Databases:** MongoDB, PostgreSQL  
-**Tools:** GitHub, Vercel, Render, Cloudinary, Postman   
+## 🚀 About Me
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+- Full-Stack Developer focused on **backend systems and scalability**
+- Experience building **real-time apps, SaaS platforms, and AI-driven products**
+- Strong in **Node.js, PostgreSQL, system design, and API architecture**
+- Solved **300+ DSA problems** across coding platforms  
+
+---
 
 ## 🛠 Tech Stack
 
+**Languages:** JavaScript, TypeScript, C++, SQL  
+**Frontend:** React, Next.js, Tailwind CSS  
+**Backend:** Node.js, Express.js, Prisma, WebSockets  
+**Databases:** PostgreSQL, MongoDB  
+**Concepts:** System Design, REST APIs, JWT Auth, Event-driven systems  
+**Tools:** Docker, Git, Postman, Stripe, Vercel  
+
+---
+
+## 🔥 Featured Projects
+
+### 🧠 Nudges – AI Referral Platform  
+🔗 [Live](https://nudges-lake.vercel.app/) | [Code](https://github.com/nitingupta95/nudges)  
+- AI-powered referral system using GPT-4  
+- Built scalable backend with PostgreSQL + Prisma  
+- Integrated Stripe billing and automated workflows  
+- Event-driven notifications and intelligent matching  
+
+---
+
+### 🏫 IIIT Bhagalpur Alumni Portal  
+🔗 [Live](https://alumni.iiitbh.ac.in/)  
+- Platform serving **500+ users** with **1K+ daily requests**  
+- Optimized DB queries → **30% performance improvement**  
+- Secure JWT-based authentication system  
+
+---
+
+### 📊 GitVizor – SaaS Analytics Platform  
+🔗 [Live](https://github-saas-zeta.vercel.app/) | [Code](https://github.com/nitingupta95/gitVizor)  
+- SaaS platform with **99.9% uptime**  
+- Integrated Stripe subscriptions  
+- Built analytics (churn, contributor insights)  
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,prisma,tailwind,html,css,vite,vercel,git" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nitingupta95&theme=github_dark" height="160em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nitingupta95&theme=github_dark" height="160em"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- 
+---
 
-## 🐍 Contribution Snake
+## 🏆 Achievements
 
-<!-- <p align="left">
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=nitingupta95&show_icons=true&locale=en&layout=compact"
-       alt="nitingupta95 - Top Languages"
-       height="180"
-       style="margin-right: 60px;" 
-  />
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=nitingupta95&show_icons=true&locale=en"
-       alt="nitingupta95 - GitHub Stats"
-       height="180" 
-  /> -->
-<!-- </p> -->
+- Solved **300+ DSA problems**
+- CodeChef Rating: **1464**
+- Codeforces Rating: **931**
+- Mentored **20+ students** in development & DSA  
+
+---
+
+## 📫 Contact
+
+📧 ng61315@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/nitingupta92)
 
 <h3 align="start">The snake’s been busy, and my contributions are its latest snack! 🐍🥡</h3>
 

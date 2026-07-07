@@ -109,7 +109,9 @@ Building scalable SaaS platforms, AI-powered applications, and production-grade 
 ---
 
 ### 🎨 Collaborative Draw App
-🔗 **GitHub:** https://github.com/nitingupta95/draw-app
+
+🔗 **Live:** [draw-app-frontend-wheat.vercel.app](https://draw-app-frontend-wheat.vercel.app/)  
+🔗 **GitHub:** [github.com/nitingupta95/draw-app](https://github.com/nitingupta95/draw-app)
 
 - Real-time collaborative whiteboard
 - WebSocket-powered synchronization

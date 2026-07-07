@@ -1,7 +1,7 @@
 <h1 align="center">Nitin Gupta</h1>
 
 <h3 align="center">
-Full-Stack Engineer | AI Systems • Backend Engineering • Distributed Systems
+Full-Stack Engineer | AI Systems • Backend Engineering
 </h3>
 
 <p align="center">
